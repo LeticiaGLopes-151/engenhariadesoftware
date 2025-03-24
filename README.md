@@ -5,19 +5,29 @@ Um projeto de agenda pessoal online inspirado no Notion, porém mais simples e o
 
 🎯 Diferenciais Simplicidade: Focado em quem quer uma ferramenta direta, sem complexidade.
 
-Offline-Friendly: Dados salvos localmente (ou em um banco de dados simples, se usar PHP + MySQL).
+🎯 Objetivo: Permitir que usuários criem, editem e excluam tarefas de forma simples e intuitiva.
 
-Customizável: Cores e tags para personalização.
+📊 GitFlow e Gráfico de Rede: O projeto seguiu o GitFlow para organização, com branches de feature, develop, release e main.
 
-🎯 Objetivo Descreva o objetivo principal (ex: "Permitir que usuários criem, editem e excluam tarefas de forma simples e intuitiva").
+🛠️ Tecnologias Utilizadas:
 
-📌 Informações Acadêmicas Universidade Federal do Tocantins Curso: Ciencias da computação Disciplina: engenharia de software Semestre 2025.1 Professor Edeilson Milhomem da Silva
+      PHP
 
-👥 Integrantes do Grupo Luiz Fernando
+      HTML5
 
-Mateus
+      CSS3
 
-Leticia
+      Git/GitHub
+
+📌 Informações Acadêmicas Universidade Federal do Tocantins Curso: Ciencias da computação Disciplina: Engenharia de Software Semestre 2025.1 Professor Edeilson Milhomem da Silva.
+
+👥 Integrantes do Grupo 
+
+Luiz Fernando De Oliveira Carvalho.
+
+Mateus Leopoldo Santiago da Silva.
+
+Leticia Gomes Lopes.
 
 Natalia
 
